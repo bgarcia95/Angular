@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
     templateUrl: './personas.component.html'
 })
 export class PersonasComponent {
-    
+    //a new line
 }
