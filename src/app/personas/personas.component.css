@@ -5,3 +5,8 @@ h1 {
 .container {
     padding: 15px;
 }
+
+button, p {
+    margin:10px 0px 10px 0px;
+}
+
